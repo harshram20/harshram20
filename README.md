@@ -28,7 +28,7 @@ Add more detail and links as you develop new projects!
 ---
 
 ##  Contact Me
-[LinkedIn](#) • [Portfolio Website](#) • [Twitter](#)
+[LinkedIn](www.linkedin.com/in/harsh-kumar-ram-30058525a)  • [Twitter](#)
 
 > “Always learning, always building.”
 
