@@ -8,7 +8,7 @@ Building production-grade UIs that are fast, accessible, and actually make sense
 
 ## 🚀 Featured Projects
 
-### [GoSafe — Frontend](https://github.com/harshram20/gosafe-frontend)
+### [GoSafe — Frontend](https://github.com/harshram20/Project)
 > Most navigation apps optimize for speed. GoSafe optimizes for **safety** — scoring routes using real safety factors like crowd density, CCTV coverage, and emergency access points, visualized on an interactive map.
 
 **What I built:**
@@ -28,7 +28,7 @@ Building production-grade UIs that are fast, accessible, and actually make sense
 
 ---
 
-### [Food Product Explorer](https://github.com/harshram20/food-product-explorer)
+### [Food Product Explorer](https://github.com/harshram20/food-explorer)
 > Search and explore 500k+ food products with dynamic filtering by name, category, and nutrition grade.
 
 **What I built:**
